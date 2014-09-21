@@ -26,6 +26,6 @@ def someFunction():
 someFunction()
 print f # This section is going to print "0 def def".
 
-# Delete variable
+# Delete variable that is previously delared.
 del f
 print f # This is going to cause an error.
