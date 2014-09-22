@@ -6,7 +6,7 @@
 def main():
   print "Hello World"
 
-# call function  "main"
+# call function  "main", making this Python file a program not a library
 if __name__ == "__main__":
   main()
 
